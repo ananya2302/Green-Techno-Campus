@@ -6,4 +6,3 @@ Designed a WEB PORTAL to track and upload the carbon footprint data into the web
 
 This project has a great scope for futuristic purposes in reducing the carbon footprint and creating an impact on the society.
 
-LINK TO POWERPOINT PRESENTATION:
